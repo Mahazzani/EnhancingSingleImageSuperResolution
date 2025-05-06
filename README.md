@@ -84,11 +84,12 @@ Refer to the notebooks in the [`NoteBooks/`](./NoteBooks/) directory for detaile
 
 ## Authors / Contributors
 
-| Name                 | ID          | GitHub Account                               |
-|----------------------|-------------|----------------------------------------------|
-| Maha AlHazzani       | 446201187   | [Mahazzani] (Maha's Account)          |
-| Muneerah AlDhafian   | 446200418   | [MuneeraRA] (Muneerah's Account)          |
-| Reem AlShehri        | 446200905   | [Reem] (Reem's Account)          |
+| Name                 | ID        | GitHub Account                          |
+|----------------------|-----------|------------------------------------------|
+| Maha AlHazzani       | 446201187 | [Mahazzani](https://github.com/Mahazzani) |
+| Muneerah AlDhafian   | 446200418 | [MuneeraRA](https://github.com/MuneeraRA) |
+| Reem AlShehri        | 446200905 | [Reem](https://github.com/Reem)           |
+
 
 
 

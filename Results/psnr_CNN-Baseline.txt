@@ -1,0 +1,3 @@
+image_1: 22.57 dB
+
+Average PSNR: 22.57 dB

@@ -89,7 +89,7 @@ Refer to the notebooks in the [`NoteBooks/`](./NoteBooks/) directory for detaile
 |----------------------|-----------|------------------------------------------|
 | Maha AlHazzani       | 446201187 | [Mahazzani](https://github.com/Mahazzani) |
 | Muneerah AlDhafian   | 446200418 | [MuneeraRA](https://github.com/MuneeraRA) |
-| Reem AlShehri        | 446200905 | [Reem-MH]((https://github.com/Reem-MH))           |
+| Reem AlShehri        | 446200905 | [Reem-MH](https://github.com/Reem-MH) |
 
 
 

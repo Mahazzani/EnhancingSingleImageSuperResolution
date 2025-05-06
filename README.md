@@ -35,8 +35,8 @@ This directory provides a set of low-resolution JPG images that can be used as i
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd Final-SISR
+    git clone <https://github.com/Mahazzani/EnhancingSingleImageSuperResolution>
+    cd EnhancingSingleImageSuperResolution
     ```
 2.  **Set up your Python environment:** It is recommended to use a virtual environment.
     ```bash
@@ -77,6 +77,7 @@ This directory provides a set of low-resolution JPG images that can be used as i
 *   Various configurations integrating CNNs with perceptual losses (detailed in `SISR_Experiments.ipynb`).
 
 Refer to the notebooks in the [`NoteBooks/`](./NoteBooks/) directory for detailed architectures and training configurations of each model. Key notebooks include:
+*   [`SISR_Bicubic_Baseline.ipynb`](./NoteBooks/SISR_Bicubic_Baseline.ipynb)
 *   [`SISR_CNN_Baseline.ipynb`](./NoteBooks/SISR_CNN_Baseline.ipynb)
 *   [`SISR_GAN_Baseline.ipynb`](./NoteBooks/SISR_GAN_Baseline.ipynb)
 *   [`SISR_Experiments.ipynb`](./NoteBooks/SISR_Experiments.ipynb)
@@ -85,9 +86,9 @@ Refer to the notebooks in the [`NoteBooks/`](./NoteBooks/) directory for detaile
 
 | Name                 | ID          | GitHub Account                               |
 |----------------------|-------------|----------------------------------------------|
-| Maha AlHazzani       | 446201187   | [YourGitHubUsername1] (Placeholder)          |
-| Muneerah AlDhafian   | 446200418   | [YourGitHubUsername2] (Placeholder)          |
-| Reem AlShehri        | 446200905   | [YourGitHubUsername3] (Placeholder)          |
+| Maha AlHazzani       | 446201187   | [Mahazzani] (Maha's Account)          |
+| Muneerah AlDhafian   | 446200418   | [MuneeraRA] (Muneerah's Account)          |
+| Reem AlShehri        | 446200905   | [Reem] (Reem's Account)          |
 
 
 
